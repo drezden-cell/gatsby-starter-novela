@@ -1,4 +1,11 @@
 ---
 label: dd
 hide_body: true
-fields: []
+fields:
+- name: dd
+  type: color
+  label: dd
+  config:
+    required: false
+    color_format: RGB
+  default: rgb(9, 0, 0)
