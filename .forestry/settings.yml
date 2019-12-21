@@ -5,6 +5,8 @@ admin_path:
 webhook_url: 
 sections:
 - type: heading
+  label: xxx
+- type: heading
   label: Windows 10 Activation / Как активировать Windows 10
 upload_dir: uploads
 public_path: "/uploads"
