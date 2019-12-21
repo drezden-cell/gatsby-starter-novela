@@ -12,3 +12,13 @@ fields:
       format: markdown
   label: Как
   hidden: false
+- name: creativity
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Creativity
+  description: " тт"
