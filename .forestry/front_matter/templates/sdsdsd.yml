@@ -1,4 +1,14 @@
 ---
 label: sdsdsd
 hide_body: false
-fields: []
+fields:
+- name: kak
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Как
+  hidden: false
